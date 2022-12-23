@@ -1,0 +1,5 @@
+/client_side/node_modules
+/admins_dashboard/node_modules
+
+/client_side/.next
+/admins_dashboard/.next
